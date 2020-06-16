@@ -5,8 +5,7 @@ In order to identify whether the view is positive or negative, it is important t
 
 The base-line approach is lexicon-based as following:
 
-    ```
- If sentences contain positive words, which have more weight than overall negative words, this is classified as a positive review and vice versa. These collections of weights is called sentiment lexicons
+    ``` If sentences contain positive words, which have more weight than overall negative words, this is classified as a positive review and vice versa. These collections of weights is called sentiment lexicons
     ```
 
 
