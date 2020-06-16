@@ -1,7 +1,7 @@
 ## Sentiment Analysis
 
 
-In order to identify whether the view is positive or negative, it is important to notice that the positive views contains positive adjective words such as ‘good’, ‘pleasant’  and adverbs like “very” good, meaning that the adjectives and adverbs are reliable features which can identify sentiment of the text. On the other hand, the negative words can be ‘sick’, ‘shocked’, and etc. It is also assumed that the positive views have only positive words, whereas the negative views contain only negative ones. However, it’s not always true to say that that people who have positive view will express only positive words. A sentence may comprise of various words with different sentiments, these words can be compared with others to be identified which one has more wight.
+In order to identify whether the view is positive or negative, it is important to notice that the positive views contains positive adjective words such as ‘good’, ‘pleasant’  and adverbs like “very” good, meaning that the adjectives and adverbs are reliable features which can identify sentiment of the text. On the other hand, the negative words can be ‘sick’, ‘shocked’, and etc. It is also assumed that the positive views have only positive words, whereas the negative views contain only negative ones. However, it’s not always true to say that that people who have positive view will express only positive words. A sentence may comprise of various words with different sentiments, these words can be compared with others to be identified which one has more weight.
 
 The base-line approach is lexicon-based as following:
 
