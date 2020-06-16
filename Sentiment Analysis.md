@@ -9,6 +9,6 @@ The base-line approach is lexicon-based as following:
     ```
 
 
-A great example of such resource is  SocialSent developed by Stanford University. It is opensource so anyone can use at  https://nlp.stanford.edu/projects/socialsent .
+A great example of such resource is  SocialSent developed by Stanford University. It is an opensource so anyone can use at  https://nlp.stanford.edu/projects/socialsent .
 
-However, this does not work if Language is more complicated creative, i.e. each word means different thing in different possible contexts.
+However, this does not work if language is more complicated and creative, i.e. each word means different thing in different possible contexts.
