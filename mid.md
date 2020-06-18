@@ -27,11 +27,15 @@ Due to differences in the timing and extent of infection in different countries,
 So, based on our goal, we need to collect data separately by country. The data we need from social platforms are people’s views, post time, and geographical locations. We can find people’s views about COVID-19 by searching for tags on social platforms, such as “COVID-19”, “economy”, “unemployment rate”, etc., and use web scraping to get the content of the views, the time of post, and posters’ location from profile page if possible. Word embedding could help us to find location information from the content, because it breaks down the whole views into individual words, which can help us identify whether the word is in the geographic information we are looking for, as long as we set the geographic information in advance. If the content does not contain the geographic information we need, we could consider using the location from poster's profile.
 
 ### Economic data set
-- The national economy can be evaluated from different aspects. Under the certain context of Covid-19 we want to put more focus on the indexes like employment-to-population ratio. Except for the employment rate, some other indexes can also be taken into account such as GDP(Gross 
+The national economy can be evaluated from different aspects. Under the certain context of Covid-19 we want to put more focus on the indexes like employment-to-population ratio. Except for the employment rate, some other indexes can also be taken into account such as GDP(Gross 
+
 Domestic Product), CCI(Consumer Confidence Index) and CPI(Consumer Price Index). These data can be obtained from the government report as well as the employment report.   
-- Because of the uncertainty of time span, we may encounter situations where the indexes go through different calendar years. Some data may have the indexes seperated by quarter or months, if not we need to select the time span in order to make the indexes paralleled with the data collected from public opinion part.  .
-- When all the necessary data has been obtained, we may start to do some pre-processing of the data, we need to apply standardization approach in order to make sure the data is of the same scale.
-- To clearly identify the trend of public opinion and national economy, we can use line chart to demonstrate the trend in a vivid way. Comparisons may then be made to identify whether public opinion and national economy have correlation or not.
+
+Because of the uncertainty of time span, we may encounter situations where the indexes go through different calendar years. Some data may have the indexes seperated by quarter or months, if not we need to select the time span in order to make the indexes paralleled with the data collected from public opinion part.  .
+
+When all the necessary data has been obtained, we may start to do some pre-processing of the data, we need to apply standardization approach in order to make sure the data is of the same scale.
+
+To clearly identify the trend of public opinion and national economy, we can use line chart to demonstrate the trend in a vivid way. Comparisons may then be made to identify whether public opinion and national economy have correlation or not.
 
 
 
